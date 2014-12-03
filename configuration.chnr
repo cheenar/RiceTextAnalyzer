@@ -1,0 +1,17 @@
+BEGIN
+
+Author:Edgar Allen Poe
+ANALYSIS_START
+	annabel_lee.ctxt
+	the_city_in_the_sea.ctxt
+	the_raven.ctxt
+ANALYSIS_END
+
+Author:Robert Frost
+ANALYSIS_START
+	the_road_not_taken.ctxt
+	acquanited_with_the_night.ctxt
+	a_minor_bird.ctxt
+ANALYSIS_END
+
+TERMINATE
